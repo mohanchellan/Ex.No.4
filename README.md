@@ -1,8 +1,8 @@
 # Ex.No.4 - Scenario-Based Report Development Utilizing Diverse Prompting Techniques
 
-## NAME:AASHIKA PARVEEN M R
-## REGISTER NUMBER: 212223060002
-## DATE: 13/09/2025
+## NAME:MOHANRAJ.C
+## REGISTER NUMBER: 212223060165
+## DATE: 17/09/2025
 
 ---
 
